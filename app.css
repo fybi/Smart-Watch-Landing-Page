@@ -18,27 +18,17 @@
     margin-left: -20px;
 }
 
-.header {
+nav {
+    font-size: 1rem;
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    margin-top: -20px;
-}
-
-ul {
-    flex: 1;
-    max-width: 50%;
-    display: flex;
-    justify-content: space-evenly;
-    margin-left: 400px;
+    align-items: center;
+    margin-top: -10px;
 }
 
 li {
     display: inline;
-    margin: 0.5rem;
-    color: white;
-    font-size: 1rem;
-    float: right;
+    margin: 0.8rem;
 }
 
 .section1 #body {
